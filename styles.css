@@ -5,3 +5,11 @@ body {
 h1 {
   text-align: center;
 }
+
+button {
+  width: 200px;
+  padding-inline: 10px;
+  padding-block: 15px;
+  border: 1px solid green;
+  border-radius: 10px;
+}
