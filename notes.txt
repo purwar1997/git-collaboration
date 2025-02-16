@@ -1,1 +1,0 @@
-This text files will contain all the notes about Git commands.
